@@ -10,6 +10,7 @@
     <h1>Hello World</h1>
     <?php 
         echo '<p>Hello CTEC 127</p>';
+        echo '<h2>Maksym Zhakin</h2>';
     ?>
 </body>
 </html>
